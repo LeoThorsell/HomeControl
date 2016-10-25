@@ -1,0 +1,17 @@
+{
+	
+
+
+	"devices":[
+		{
+			"name":"Sensor källare",
+			"queue":"home/basement/sensor",
+			"znodeid":8
+		},
+		{
+			"name":"Motorvärmaren",
+			"queue":"home/carheater",
+			"znodeid":13
+		}
+	]
+}
