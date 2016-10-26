@@ -2,6 +2,7 @@
 	"name":"ThorsellHome",
 	"version":"0.0.1",
 	"dependencies":{
-		"mqtt": "*"
+		"mqtt": "*",
+		"openzwave-shared": "*"
 	}
 }
